@@ -1,9 +1,4 @@
-<p align="right">
-<a href="tdchien88/tdchien88.github.io"><img src="https://action-badges.now.sh/tdchien88/tdchien88.github.io" alt="Build status"/></a>
-<a href="https://github.com/tdchien88/tdchien88.github.io/actions?query=workflow%3A%22Master+branch+CI%22"><img  src="https://github.com/tdchien88/tdchien88.github.io/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a></p>  
-
-
-### Hi there, I'm **Chien**. 👋  
+## Hi there, I'm **Chien**. 👋  
 > I'm a BrSE and full stack engineer.   
 > I fall in love with "Cà phê sữa đá". 
 
